@@ -44,5 +44,3 @@ I want to be able to like (or upvote) posts
 I hope you find inspiration and valuable insights from exploring the Twitter Clone project.
 
 If you have any questions or suggestions, feel free to reach out to our team at yashvermaa1@gmail.com.
-
-Happy coding! 🚀
